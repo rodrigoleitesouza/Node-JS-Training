@@ -50,6 +50,6 @@ app.delete('/projects/:id', (request, response) => {
 
 app.listen(3333, () => {
   console.log('===================================');
-  console.log('== S ERVER RUNNING LIKE A ROCKET! ==');
+  console.log('== SERVER RUNNING LIKE A ROCKET! ==');
   console.log('===================================');
 });
